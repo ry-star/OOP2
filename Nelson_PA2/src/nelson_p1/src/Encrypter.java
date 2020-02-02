@@ -1,4 +1,4 @@
-package nelson_p1;
+package nelson_p1.src;
 
 //This class contains the encrypt method, which encrypts a 4-digit integer
 public class Encrypter {

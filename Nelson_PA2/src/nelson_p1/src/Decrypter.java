@@ -1,4 +1,4 @@
-package nelson_p1;
+package nelson_p1.src;
 
 //Contains the decrypt method, which decrypts an encrypted integer
 public class Decrypter {
